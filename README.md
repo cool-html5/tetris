@@ -11,7 +11,7 @@ Classical Tetris game implemented using the following technologies:
 
 Template for the project was created usin create-vite:
 
-    npm create vite@latest my-vue-app --template react-ts
+    npm create vite@latest tetris --template react-ts
 
 Tailwind CSS was added using instructions from [Vite Guide](https://tailwindcss.com/docs/guides/vite).
 
