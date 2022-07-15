@@ -31,6 +31,8 @@ Formatting of code by Prettier.
 | Arrow up | Rotate piece |
 | Space | Toggle pause |
 
+You can play it [here](https://cool-html5.net/tetris/).
+
 ## Piece Randomization
 
 Math.random with Math.round is used but first and last values are discarded because it seems to underrepresent those values.
